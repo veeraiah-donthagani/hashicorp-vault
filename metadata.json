@@ -1,0 +1,59 @@
+{
+  "name": "hashicorp-vault",
+  "description": "Application cookbook for installing and configuring Vault.",
+  "long_description": "Application cookbook for installing and configuring Vault.",
+  "maintainer": "John Bellone",
+  "maintainer_email": "jbellone@bloomberg.net",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": ">= 12.04",
+    "redhat": ">= 6.4",
+    "centos": ">= 6.4",
+    "windows": ">= 0.0.0",
+    "freebsd": ">= 0.0.0"
+  },
+  "dependencies": {
+    "build-essential": ">= 0.0.0",
+    "golang": "~> 1.7",
+    "poise": "~> 2.6",
+    "poise-service": "~> 1.1",
+    "rubyzip": "~> 1.0"
+  },
+  "recommendations": {
+
+  },
+  "suggestions": {
+
+  },
+  "conflicting": {
+
+  },
+  "providing": {
+
+  },
+  "replacing": {
+
+  },
+  "attributes": {
+
+  },
+  "groupings": {
+
+  },
+  "recipes": {
+
+  },
+  "version": "2.5.0",
+  "source_url": "https://github.com/johnbellone/vault-cookbook/",
+  "issues_url": "https://github.com/johnbellone/vault-cookbook/issues",
+  "privacy": false,
+  "chef_versions": [
+
+  ],
+  "ohai_versions": [
+
+  ],
+  "gems": [
+
+  ]
+}
